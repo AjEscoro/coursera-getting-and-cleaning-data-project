@@ -77,6 +77,13 @@ This code book summarizes the resulting data fields in tidy.txt.
 * fBodyAccMag-meanFreq()
 * fBodyBodyAccJerkMag-mean()
 * fBodyBodyAccJerkMag-std()
+* fBodyBodyAccJerkMag-meanFreq()
+* fBodyBodyGyroMag-mean()
+* fBodyBodyGyroMag-std()
+* fBodyBodyGyroMag-meanFreq()
+* fBodyBodyGyroJerkMag-mean()
+* fBodyBodyGyroJerkMag-std()
+* fBodyBodyGyroJerkMag-meanFreq()
 
 ## Activity Labels
 * WALKING             (value 1) : subject was walking during the test
@@ -85,10 +92,3 @@ This code book summarizes the resulting data fields in tidy.txt.
 * SITTING             (value 4) : subject was sitting during the test
 * STANDING            (value 5) : subject was standing during the test
 * LAYING              (value 6) : subject was laying down during the test
-* fBodyBodyAccJerkMag-meanFreq()
-* fBodyBodyGyroMag-mean()
-* fBodyBodyGyroMag-std()
-* fBodyBodyGyroMag-meanFreq()
-* fBodyBodyGyroJerkMag-mean()
-* fBodyBodyGyroJerkMag-std()
-* fBodyBodyGyroJerkMag-meanFreq()
